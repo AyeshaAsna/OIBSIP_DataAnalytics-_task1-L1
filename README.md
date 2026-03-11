@@ -1,5 +1,6 @@
 # OIBSIP_DataAnalytics-_task1-L1
 Exploratory Data Analysis (EDA) on retail sales data to identify trends, customer behavior, and product performance. The project includes data cleaning, descriptive statistics, time-series analysis, and visualizations using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+
 # Exploratory Data Analysis on Retail Sales Data
 
 ## Objective
@@ -30,6 +31,18 @@ Dataset 2: mcdonalds_menu (uploaded)
 - Identified peak sales periods.
 - Observed customer purchasing patterns.
 - Found top performing products.
+
+# Run the project
+
+1. Download the dataset
+2. Open the project in VS Code
+3. Install required libraries
+
+pip install pandas numpy matplotlib seaborn
+
+4. Run the script
+
+python task1.py
 
 ## Outcome
 The analysis helped uncover meaningful insights from retail sales data that can support better business decisions.

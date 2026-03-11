@@ -6,9 +6,9 @@ Exploratory Data Analysis (EDA) on retail sales data to identify trends, custome
 To analyze retail sales data and identify trends, patterns, and customer purchasing behavior using exploratory data analysis techniques.
 
 ## Dataset
-Dataset 1: 
+Dataset 1: retail_sales (uploaded)
 
-Dataset 2: 
+Dataset 2: mcdonalds_menu (uploaded)
 
 ## Tools & Technologies
 - Python
